@@ -1,5 +1,4 @@
 nlist = input().split("\n")
-print(len(nlist))
 for i in nlist: 
 	x = i.split()
 	R = float(x[0])
